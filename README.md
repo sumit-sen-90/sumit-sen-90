@@ -1,5 +1,6 @@
+![]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/sumit-sen-90/sumit-sen-90/blob/main/Blue%20Modern%20Marketing%20Manager%20LinkedIn%20Banner.png))
+
 ### Hi there 👋, I am Sumit
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 To leverage my expertise and passion for Node.js as a Full Stack Developer, contributing innovative solutions and robust code to advance projects and deliver high-quality software products. Seeking opportunities to collaborate with cross-functional teams, apply best practices, and continuously enhance my skills to drive excellence in software development.
 
