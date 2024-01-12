@@ -11,8 +11,7 @@ Skills: NODE JS / REACT / JS / HTML / CSS / RTK
 - 💬 Ask me about MERN 
 - 📫 How to reach me: sumit223312@gmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/sumit-sen-1a2-/)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-sen-90)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/sumit-sen-1a2-/)  
